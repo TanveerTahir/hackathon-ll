@@ -1,0 +1,2 @@
+# No specific dependencies required for this basic CLI application
+# Uses only built-in Python libraries

@@ -1,0 +1,1 @@
+History directory needs to be created with proper structure
